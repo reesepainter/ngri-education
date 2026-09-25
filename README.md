@@ -1,2 +1,2 @@
 # ngri-education
-Website coded in javascript for my Criminal Psychology course from ASU
+An interactive educational website exploring the insanity defense, legal standards, and notable cases made for ASU'S PSY211 
