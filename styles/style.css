@@ -35,7 +35,7 @@ p{
   color: #e0e0e0;
 }
 body {
-  width: 600px;
+  width: 800px;
   margin: 0 auto;
   background-color: #313130;
   padding: 0 20px 20px 20px;
@@ -51,22 +51,30 @@ img {
 
 }
 ol {
-  font-family: sans-serif;
+ font-family: sans-serif;
   display: flex;
   list-style: none;
   border: 1px solid black;
+  padding: 0;
+  
 }
 
 li {
   margin: 5px;
+  flex: 1;
+  display: flex
 }
 
 .navigation a{
   background-color: rgb(75 11 24);
   color: white;
   text-decoration: none;
-  padding: 1em 2em;
-  
+  padding: 1em;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
 }
 
 .navigation a:hover {
