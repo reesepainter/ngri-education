@@ -47,7 +47,7 @@ img {
   margin: 0 auto;
   max-width: 100%;
 }
-class = "reference" {
+.reference {
 
 }
 
@@ -62,5 +62,5 @@ class = "reference" {
   background-color: rgb(66 28 40);
   color: white;
 }
-}
+
 
