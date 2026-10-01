@@ -51,38 +51,38 @@ body {
 }
 img {
   display: block;
-  margin: 0 auto;
-  max-width: 100%;
- align-items: left; 
-  
+  margin: 0;
+  max-width: 100%;  
 }
 .reference {
-
+    margin-left: 2rem;
+    text-indent: -2rem;
 }
+
 ol {
  font-family: sans-serif;
   display: flex;
   list-style: none;
   border: 1px solid black;
   padding: 0;
-  li {
+  }
+ ol li {
   margin: 5px;
   flex: 1;
   display: flex
-}
 }
 ul {
- font-family: sans-serif;
-  list-style:circle;
-  li {
-  margin: 5px;
+  font-family: sans-serif;
+  list-style-type: circle;
+  padding-left: 30px;
+}
+
+ul li {
+  margin: 10px 0;
   font-size: 16px;
-  flex: 1;
   color: white;
-  display: flex
-    
 }
-}
+
 
 .navigation a{
   background-color: rgb(75 11 24);
