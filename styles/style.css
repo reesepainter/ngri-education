@@ -50,13 +50,7 @@ img {
 .reference {
 
 }
-
-.navigation a{
-  background-color: rgb(75 11 24);
-  color: white;
-  text-decoration: none;
-  padding: 1em 2em;
-  ul {
+ol {
   font-family: sans-serif;
   display: flex;
   list-style: none;
@@ -66,6 +60,13 @@ img {
 li {
   margin: 5px;
 }
+
+.navigation a{
+  background-color: rgb(75 11 24);
+  color: white;
+  text-decoration: none;
+  padding: 1em 2em;
+  
 }
 
 .navigation a:hover {
