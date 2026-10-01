@@ -8,9 +8,13 @@ html {
 }
 h1 {
   font-size: 60px;
-  text-align: center;
 }
-
+h2 {
+  font-size: 20px;
+}
+h3{
+  font-size: 16px;
+}
 p{
   font-size: 12px;
   line-height: 2;
