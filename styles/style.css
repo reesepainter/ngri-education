@@ -69,7 +69,9 @@ ul {
   margin: 5px;
   font-size: 16px;
   flex: 1;
+  color: white;
   display: flex
+    
 }
 }
 
