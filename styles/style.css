@@ -64,10 +64,7 @@ ol {
 }
 ul {
  font-family: sans-serif;
-  display: flex;
   list-style:circle;
-  border: 1px solid black;
-  padding: 0;
   li {
   margin: 5px;
   font-size: 16px;
