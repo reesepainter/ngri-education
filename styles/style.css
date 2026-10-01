@@ -50,7 +50,17 @@ img {
 class = "reference" {
 
 }
-class = "myth-fact" {
 
+.navigation a{
+  background-color: rgb(75 11 24);
+  color: white;
+  text-decoration: none;
+  padding: 1em 2em;
+}
+
+.navigation a:hover {
+  background-color: rgb(66 28 40);
+  color: white;
+}
 }
 
