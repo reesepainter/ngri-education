@@ -65,7 +65,7 @@ ol {
 ul {
  font-family: sans-serif;
   display: flex;
-  list-style: none;
+  list-style:circle;
   border: 1px solid black;
   padding: 0;
   li {
@@ -74,7 +74,7 @@ ul {
   flex: 1;
   display: flex
 }
-
+}
 
 .navigation a{
   background-color: rgb(75 11 24);
