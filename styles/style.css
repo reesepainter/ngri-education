@@ -117,12 +117,10 @@ iframe {
 }
 
 @media (max-width: 600px) {
-  .navigation ol {
+  .navigation  {
     flex-direction: column;
 }
-      ol {
-        flex-direction: column;
-    }
+      
   
  
 }
